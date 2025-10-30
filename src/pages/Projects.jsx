@@ -21,7 +21,7 @@ const projects = [
     tags: ["React", "Tailwind CSS", "Gemini"],
     gradient: "from-primary to-secondary",
     github: "https://github.com/ayush-yadaav/Mailmint.git",
-    demo: "https://mailmint-nu.vercel.app/contact",
+    demo: "https://mailmint-nu.vercel.app",
   },
   {
     title: "Staff Management",
