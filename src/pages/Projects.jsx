@@ -15,13 +15,13 @@ const projects = [
     demo: "https://news-summarizer-frontend-sigma.vercel.app",
   },
   {
-    title: "Gen Email",
+    title: "Mail Mint",
     description:
-      "GenMail is a smart web app that instantly generates professional, personalized emails using AI.",
+      "MailMint is a smart web app that instantly generates professional, personalized emails using AI.",
     tags: ["React", "Tailwind CSS", "Gemini"],
     gradient: "from-primary to-secondary",
-    github: "https://github.com/ayush-yadaav/GenEmail",
-    demo: "https://gen-email-five.vercel.app/",
+    github: "https://github.com/ayush-yadaav/Mailmint.git",
+    demo: "https://mailmint-nu.vercel.app/contact",
   },
   {
     title: "Staff Management",
